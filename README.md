@@ -2,7 +2,7 @@
 
 ## Description
 
-As part of the UCLA I created this project to learn HTML & CSS and refactoring redundant.
+As part of the UCLA Bootcamp I created this project to learn HTML & CSS and refactoring.
 
 ## Screenshot
 
